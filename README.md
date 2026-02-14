@@ -54,9 +54,11 @@
 
 <div align="center">
 
-![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SunFlower-Nz&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SunFlower-Nz&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SunFlower-Nz&layout=compact&theme=tokyonight&hide_border=true)
+![Eduardo's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SunFlower-Nz&theme=tokyonight)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SunFlower-Nz&theme=tokyonight)
 
 </div>
 
