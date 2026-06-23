@@ -1,72 +1,55 @@
-# 👋 Hi, I'm Eduardo Tavares
+# 👋 Olá, sou Eduardo Tavares
 
-**RPA Engineer | Power Platform Developer | Python Automation Specialist**
+**Automation Engineer | Power Automate Cloud & Desktop | Oracle/SQL & APIs**
 
-🔧 Building intelligent automation solutions that save thousands of hours.
+Construo e sustento automações enterprise que eliminam trabalho manual repetitivo — da arquitetura até produção.
+
+📍 São Paulo, Brasil · 🔗 [LinkedIn](https://www.linkedin.com/in/eduardo-tavares-rpa/)
 
 ---
 
-## 🚀 What I Do
+## 🚀 O que faço
 
-- **RPA Engineering**: Designing and building enterprise-grade automation with Power Automate Desktop & Cloud
-- **Power Platform Development**: Custom Connectors, AI Builder, Dataverse integrations
-- **Python Automation**: Web scraping, data pipelines, API integrations, reconciliation engines
-- **Process Optimization**: Analyzing manual workflows and creating end-to-end automation solutions
+- **Automação híbrida**: Power Automate Cloud + Desktop, orquestradores, Work Queues
+- **Integrações**: Oracle, SQL Server, REST APIs, SharePoint, SAP, SMTP
+- **Produção**: tratamento de exceções, monitoramento, sustentação e QA
+- **Python**: conciliação financeira, APIs (FastAPI), pipelines de dados
 
-## 🛠️ Tech Stack
+## 🛠️ Stack
 
-<div align="center">
+| Categoria | Tecnologias |
+|-----------|-------------|
+| **RPA** | Power Automate Desktop · Cloud · Work Queues |
+| **Dados** | Oracle · SQL Server · SharePoint Lists |
+| **Código** | Python · PowerShell · SQL |
+| **APIs** | FastAPI · Custom Connectors · REST |
+| **Ops** | Git · Docker · logs estruturados · runbooks |
 
-| Category | Technologies |
-|----------|-------------|
-| **RPA** | Power Automate Desktop · Power Automate Cloud · Work Queues · AI Builder |
-| **Languages** | Python · C# · PowerShell · JavaScript · TypeScript · SQL |
-| **Python** | Pandas · FastAPI · Playwright · Celery · pytest · openpyxl |
-| **Databases** | SQL Server · Oracle · PostgreSQL |
-| **Cloud** | Azure Functions · Azure DevOps · Docker · GitHub Actions |
-| **Power Platform** | Custom Connectors · Dataverse · PCF Controls · Solution Architecture |
+## 📊 Impacto (produção real)
 
-</div>
+- **~4 anos** em automação enterprise (saúde, financeiro, mineração, RH, fiscal)
+- **28+ projetos** entregues em consultoria especializada em RPA
+- **99.7%** success rate documentado no exception framework
+- **40h → 5min** conciliação bancária (engine Python + Power Automate)
 
-## 📊 Impact & Numbers
+## 📌 Projetos em destaque
 
-- ⏱️ **10,000+ hours** of manual work eliminated through automation
-- 🏗️ **50+ RPA processes** built and deployed in production
-- 📉 **85% reduction** in data processing errors
-- 🔄 **End-to-end automation** for financial reconciliation, document processing, and data migration
+| Projeto | Descrição |
+|---------|-----------|
+| [power-automate-exception-framework](https://github.com/SunFlower-Nz/power-automate-exception-framework) | 6 padrões de erro + orquestrador produção (PAD + Work Queues) |
+| [python-bank-reconciliation](https://github.com/SunFlower-Nz/python-bank-reconciliation) | Conciliação OFX/CSV com matching fuzzy e relatório Excel |
+| [fastapi-custom-connector](https://github.com/SunFlower-Nz/fastapi-custom-connector) | API FastAPI importável como Custom Connector no Power Platform |
+| [automation-case-studies](https://github.com/SunFlower-Nz/automation-case-studies) | Cases STAR anonimizados para entrevistas |
 
-## 📜 Certifications
+## 📜 Certificações
 
-- 🏅 Microsoft Certified: Azure Fundamentals (AZ-900)
-- 🏅 Microsoft Certified: Power Platform Developer Associate (PL-400)
+- Alura: Python, SQL, Git, Node REST (2020)
+- **Em progresso:** PL-900 → PL-200 (Microsoft Power Platform)
 
-## 📌 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [python-bank-reconciliation](https://github.com/SunFlower-Nz/python-bank-reconciliation) | Automated bank reconciliation engine with OFX parsing | Python · Pandas · pytest |
-| [power-automate-exception-framework](https://github.com/SunFlower-Nz/power-automate-exception-framework) | Production-grade error handling patterns for Power Automate | Power Automate · Documentation |
-| [fastapi-custom-connector](https://github.com/SunFlower-Nz/fastapi-custom-connector) | FastAPI backend + Power Platform Custom Connector | Python · FastAPI · Swagger |
-| [automation-case-studies](https://github.com/SunFlower-Nz/automation-case-studies) | Real-world automation case studies with measurable results | Documentation · STAR Framework |
-| [Epic-Games-Claimer](https://github.com/SunFlower-Nz/Epic-Games-Claimer) | Automated free game claimer using browser automation | Python · Playwright |
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SunFlower-Nz&theme=tokyonight&hide_border=true)
-
-![Eduardo's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SunFlower-Nz&theme=tokyonight)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SunFlower-Nz&theme=tokyonight)
-
-</div>
-
-## 📫 Let's Connect
+## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-tavares-rpa/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SunFlower-Nz)
 
 ---
 
-📍 São Paulo, Brazil | 🌐 Open to international opportunities
+⭐ **Pin recomendado:** exception-framework · bank-reconciliation · fastapi-custom-connector
